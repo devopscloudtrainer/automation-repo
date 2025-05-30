@@ -2,3 +2,9 @@ Adding Transaction,json
 * Remotes
 * Pull Request
 * Fork Mechanism
+----------------------------------------------------------------------------------------------------------------------------
+5.git checkout: git checkout is used for switching & create branch and as well as we can create branch from another branch.
+
+ command: local main> git fetch origin main                 // changes will come to origin/main branch
+          local main> git checkout -b feature origin/main   // create feature branch from origin/main branch
+
