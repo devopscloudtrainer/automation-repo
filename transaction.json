@@ -1,1 +1,28 @@
-
+Overview of Git
+What is Version control system? Why do we need it?
+Types of Version control system(VCS)
+-----------------------------------------------------------------------
+Git Flow/Architecture
+Installation of Git
+Basic Git commands:
+   * git version
+   * git init
+   * git add
+   * git commit
+   * git status
+   * git log
+   * git config
+   * git show
+   * git rm
+--------------------------------------------------------------------------
+Branches
+Tags
+-----------------------------------------------------------------------------
+Merge & Rebase
+Cherry-pick
+----------------------------------------------------------------------------
+Github Account creation
+Github basic Administration:
+    * Repository creation and deletion
+    * Branch creation and deletion
+    * Tag creation and deletion
