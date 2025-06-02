@@ -1,0 +1,25 @@
+Branch is nothing but an logical directory which contains files/directories with associated commits.
+Every branch will have unique data.
+
+eg: Ecommerce-website:
+      * login-feature
+      * logout-feature
+      * payment-feature
+      * product-catalog
+      * Add-to-cart feature
+
+ Branch: ecommerce-website-branch
+      * login-feature -> 20 files -> commits
+      * logout-feature -> 10 files -> commits
+      * payment-feature -> 30 files -> commits
+      * product-catalog -> 50 files -> commits
+      * Add-to-cart feature -> 10 files -> commits
+
+Payment-feature: Has some problem - some changes are not working
+                 They want to remove payment feature and re-develop again.
+
+    Problem:
+      * Difficult to rollback
+      * Testing individual is an challenge
+      * No reuseability concept.
+
